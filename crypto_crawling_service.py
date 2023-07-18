@@ -1,9 +1,7 @@
-from pprint import pprint
 import time
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-import os
 from google.cloud import storage
 from fake_useragent import UserAgent
 
@@ -23,7 +21,7 @@ user_agent = UserAgent()
 
 base_url = "https://www.coingecko.com/en/coins/"
 
-coins = ["bitcoin","ethereum","tether"]
+coins = ["bitcoin","ethereum","tether","bnb","usd-coin","xrp","lido-staked-ether","cardano","dogecoin","solana","litecoin","tron","polygon","polkadot","bitcoin-cash","wrapped-bitcoin","avalanche","shiba-inu","dai","uniswap","binance-usd","leo-token","chainlink","monero","true-usd","cosmos-hub","ethereum-classic","stellar","okb","toncoin","filecoin","internet-computer","lido-dao","hedera","cronos","quant","aptos","arbitrum","vechain","near","aave","the-graph","frax","rocket-pool-eth","stacks","multiversx","algorand","maker","eos","the-sandbox","optimism","whitebit","tezos","bitcoin-sv","fantom","theta-network","render-token","usdd","immutablex","decentraland","rocket-pool","apecoin","curve-dao-token","axie-infinity","pax-dollar","bitdao","bitget-token","synthetix-network-token","kava","neo","injective","pepe","ecash","flow","gala","kucoin","gemini-dollar","radix","chiliz","klaytn","iota","gmx","compound-ether","pax-gold","terra","tether-gold","kaspa","tokenize-xchange","compound","frax-share","bittorrent","frax-ether","huobi-token","sui","xdc-network","mina-protocol","casper-network","conflux","compound-usd-coin"]
 
 tables = []
 
