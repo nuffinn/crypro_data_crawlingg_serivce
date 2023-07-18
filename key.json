@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bkfintech-datahub",
+  "private_key_id": "e9fc11b92d8cc06b8ea044983b96bf6c3846f80d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0GSK4cGjcyt3p\nqWHiWH8SEE8gfG4fROvmAIqsS2xWhih1zAgPOMGM5AtgQvdsCyeqs0CN0i9bBDGu\nnNvykYTJ3GsyMOTbm/rTUTXHSqpJ0PXBoUQ/mGkP7gZIUxilVurhvyRFfXwwuh+q\nEo4pg2JNOaJBIYUsmfIK+b6APnK3fzsHiLeyejbywviBqiDMLZvIIhknw1V//MIR\nZCx0GY+Qg1nCcWt//3dUEZ0pvywBUVRvIFwXs9KNRE1Pntpj8ZzQgmgsGB/1YRcx\nGG9QCUhyjwvxKpveAAkrZ6ivcKNDSNoPIFLznkiTP1klGDu5QSFQVDYM1l9p1VD7\nIUOZm3ihAgMBAAECggEAFlaOyqswqoAkHb0TZch9vF8W/WvJmenJy62yBZRWU/YQ\ncynzLvYmdaP8cDxmJXnNufvBTEXvdz3SLrsIgfIAMyx6hE9xt3aFmivWvIkbjYvU\nS6fFyBCOqXnnwBVEd4+MEyOK626Y1o9jaYwjI22HJhZ5tFPkyYcvsSJQeWYlgvJY\nerpl/MHHd3w083pDGjCT2iYRsksQuWeVJ79Wq/GdlsR96kIniOha58MND4yHPDiG\nHvaZ6Vq3jPxCvnOB06qQdi84cUmEXdf0cch+N/6Tb6Kch6zg4gpFctiB3ZnvD9l0\nwT58LwiLQJN2ojtSu4T9U+18LnvIeZcrIrQKxXGn5QKBgQD2SkqlDUZXq1Z79hBV\nXsXy/QwGIRcM5COGkq+GC5r3VEdiOXze047ufHvN4J+SetqqxbF6UIM2aw4OhsiU\n1x0tCU5nwi/V9OnOQ93t1kiPyxI5c9CW0RblxK9QZwrR8lsOtBTaOachF0SDuIAq\ngKzNxueO4Q/y2+lW3lMO36sjHQKBgQC7MstmQzwZwOMtqDKc17ZX+4x+U9zCSJY0\niE2rglFWhUezRAO6VC74v9c6AULY68bXZ/OtQbvMATaHguQCet/RP98NfbG46s/p\nzU3nzh0b0c4VyhRo/xyhRJExNEmsYai3/Sn9oIEBrEiVbIhKUrQvu1DDK13mSYut\n91Kyz0MQVQKBgQCjUBX5JjlLruiVIFAqW8LE4njTo6OGP80y0hejuhRTBsai4l3j\n38L6bv8lQFpvphlTfe22nqazMf/LMCLXV2EYWQBtmv1fUZyr0qLZr+rDtrNp91sM\ndq9JQsfBd+Jb3un0cQMWxX4GWkhrU69g/5wWg1tOifyqXJp4qMnIphX0HQKBgFhw\nbOvJQ/Ge0TVWy2KR/tGeRAfCsv8Or/ftlVQ74xWPLgqhTWmQMAjRCWucAOreqThH\nIjZuYbzFre9jhTkut+Lx2/1Rrs8AEG4S0oV7OQFVo5ljuTTJocsGy9mFLHFGSiFy\nd44dcBVMQZZmihUi8YHDayppqJkNkfIEcIuNo89pAoGBAKnG+uLWPViUZ8gQx3S1\n63TCTWj5svXTukrn3Ps5CwrMVZ4BaE1huBwCnnvwBMlnxeCp8h8ERxqPxiZNeGRa\nh7kHiPnpFPlemyQWbTHhVTt/hTclUgNXwLd4txJAoQ57KGQcjEw7JQDMV+OQaHxK\nwDtHTRqD+9GzjtT6AOQWyxTc\n-----END PRIVATE KEY-----\n",
+  "client_email": "custom-storage-bucket@bkfintech-datahub.iam.gserviceaccount.com",
+  "client_id": "107029179005880457125",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/custom-storage-bucket%40bkfintech-datahub.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
